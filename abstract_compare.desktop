@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=AbstractCompare
+Comment=Flissie's really cool program
+Type=Application
+Path=/home/Fliss/Documents/Typytypy/Abstract_Compare/
+Exec=python3 abstract_comp.py
+Terminal=false
+
